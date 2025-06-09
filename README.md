@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Meet Maheshwari</h1>
-<h3 align="center">Passionate Computer Science student with a strong interest in full-stack web development and problem solving. Actively sharpens coding skills through platforms like LeetCode (300+ problems solved), HackerRank (2star coder). Aims to build scalable software solutions and contribute to tech-driven organizations. Staying current with emerging tech trends, remains consistent and dedicated to delivering high-quality work, and is eager to take on real-world industry challenges.</h3>
+<h3 align="center">A Full Stack Developer and Competitive Coder from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meet-maheshwari&label=Profile%20views&color=0e75b6&style=flat" alt="meet-maheshwari" /> </p>
